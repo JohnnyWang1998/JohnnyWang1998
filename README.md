@@ -2,16 +2,18 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=linkedin.com/in/zywang-johnny/)](https://www.linkedin.com/in/zywang-johnny/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnnywang918@gmail.com)](johnnywang918@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/johnny_vvang/)](https://www.instagram.com/johnny_vvang/) 
 
+
 ### 👨🏻‍💻 About Me
 
 
 - 📖 I’m a Data Science Master student at Northeastern University
 - 🔭 I’m currently a data engineer at Merck KGaA
-- 🌱 I interned as a data scientist at Peapod Digital Labs
+- 📊 I interned as a data scientist at Peapod Digital Labs
 - 💻 I was a software engineer at a healthcare startup
 - ⚡️ My passion lies in leveraging data science to analyze data, make predictions, and derive insights that address real-world challenges
 - 🔍 I am currently actively seeking full-time opportunities in the field of data science and machine learning
----
+- 💪 I like weight lifting, rock climbing, and guitar playing when I'm free
+
 
 ### 🛠 Languages and Tools
 
@@ -21,7 +23,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
-[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c]
+[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c++]
 [![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;][rlang]\
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
@@ -34,21 +36,15 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
-[github]: https://github.com/manojuppala
-[twitter]: https://twitter.com/Manoj_0863
-[youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
+[github]: https://github.com/JohnnyWang1998
 [linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
-[coursera]: https://www.coursera.org/learn/data-analysis-with-python
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/doc/
 [java]: https://docs.oracle.com/en/java/
 [rlang]: https://github.com/manojuppala/R-programming
-[matlab]: https://www.mathworks.com/products/matlab.html
-[tableau]: https://www.tableau.com/
 [git]: https://git-scm.com/doc
 [github]: https://github.com/
 [c++]: https://devdocs.io/cpp/
-[c]: https://devdocs.io/c/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
 
