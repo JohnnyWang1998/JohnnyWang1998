@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ziyue Wang - aka Johnny
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=linkedin.com/in/zywang-johnny/)](https://www.linkedin.com/in/zywang-johnny/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnnywang918@gmail.com)](johnnywang918@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/johnny_vvang/)](https://www.instagram.com/johnny_vvang/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=linkedin.com/in/zywang-johnny/)](https://www.linkedin.com/in/zywang-johnny/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnnywang918@gmail.com)](mailto:johnnywang918@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/johnny_vvang/)](https://www.instagram.com/johnny_vvang/) 
 
 
 ### 👨🏻‍💻 About Me
@@ -18,17 +18,17 @@
 ### 🛠 Languages and Tools
 
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
-[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;][java]
+[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;][java]
 [![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c++]
-[![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;][rlang]\
+[![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;][rlang]
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]\
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
