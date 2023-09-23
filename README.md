@@ -10,7 +10,7 @@
 - 🔭 I’m currently a data engineer at Merck KGaA
 - 📊 I interned as a data scientist at Peapod Digital Labs
 - 💻 I was a software engineer at a healthcare startup
-- ⚡️ My passion lies in leveraging data science to analyze data, make predictions, and derive insights that address real-world challenges
+- ⚡️ My passion lies in leveraging data science to derive insights that address real-world challenges
 - 🔍 I am currently actively seeking full-time opportunities in the field of data science and machine learning
 - 💪 I like weight lifting, rock climbing, and guitar playing when I'm free
 
