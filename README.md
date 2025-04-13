@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 About Me
 
 
-- 📖 I’m a Data Science Master student at Northeastern University
+- 📖 I recently graduated with a Master’s in Data Science from Northeastern University
 - 🔭 I’m currently a data engineer at Merck KGaA
 - 📊 I interned as a data scientist at Peapod Digital Labs
 - 💻 I was a software engineer at a healthcare startup
