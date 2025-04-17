@@ -6,18 +6,18 @@
 ### 👨🏻‍💻 About Me
 
 
-- 📖 I recently graduated with a Master’s in Data Science from Northeastern University
-- 🔭 I’m currently a data engineer at Merck KGaA
-- 📊 I interned as a data scientist at Peapod Digital Labs
-- 💻 I was a software engineer at a healthcare startup
-- ⚡️ My passion lies in leveraging data science to derive insights that address real-world challenges
-- 💪 I like weight lifting, rock climbing, and guitar playing when I'm free
+- 🔭 Currently working as a Data Engineer at EMD Digital to *Make Science Faster*
+- 🎓 Recently earned my Master’s in Data Science from Northeastern University
+- 💼 Experienced as a Data Scientist in the e-commerce industry and as a Software Engineer at a healthcare startup
+- ⚡️ Passionate about using data science to uncover insights and solve real-world problems
+- 💪 Outside of work, I enjoy weightlifting, rock climbing, and playing guitar
 
 
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
